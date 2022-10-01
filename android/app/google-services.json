@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935622116",
+    "project_id": "cashapp-3aff3",
+    "storage_bucket": "cashapp-3aff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935622116:android:5a55259c95da8f94b383f1",
+        "android_client_info": {
+          "package_name": "tech.hyperone.trackex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935622116-u4nkt6vgotjpfqsdimghef19ufo9iv04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvR4KMtgnAS8Sqx--dUT1bLefk1zJUoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935622116-u4nkt6vgotjpfqsdimghef19ufo9iv04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
